@@ -1,16 +1,12 @@
-# videocall_app_agora_api
+# Video Call App Using AGora's Video SDK
 
-A new Flutter project.
+#Steps to run this project on your PC:
+- Make sure flutter SDK (with null safety) is installed in your PC
+- Clone or download this project either manually or with Github CLI from [here](https://github.com/MSatyam-Mishra/videocall_app_agora_api.git)
+- Select device physical or Emmulator and run following command in command prompt
 
-## Getting Started
+'''flutter build'''
 
-This project is a starting point for a Flutter application.
+- Now your build is ready to run, so run following command
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+'''flutter run'''
