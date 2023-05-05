@@ -63,7 +63,7 @@ class _LoginScreenState extends State<LoginScreen> {
       ),
       body: SingleChildScrollView(
           child: Container(
-              padding: const EdgeInsets.symmetric(horizontal: 20),
+              padding: const EdgeInsets.symmetric(horizontal: 25),
               child: Column(
                 children: [
                   const SizedBox(
@@ -71,6 +71,8 @@ class _LoginScreenState extends State<LoginScreen> {
                   ),
                   Image.asset(
                     "assets/images/image-1.png",
+                    color: isDark == true ? Colors.black45 : null,
+                    colorBlendMode: BlendMode.darken,
                   ),
                   const SizedBox(
                     height: 20,
@@ -122,6 +124,8 @@ class _LoginScreenState extends State<LoginScreen> {
                     onPressed: onJoin,
                     style: ElevatedButton.styleFrom(
                         minimumSize: Size(double.infinity, 40),
+                        shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(5)),
                         backgroundColor: textColor,
                         foregroundColor: bgColor),
                     child: const Text(

@@ -14,4 +14,4 @@ Color bgColor2 = Colors.black;
 
 Color textColor1 = Color.fromARGB(255, 0, 92, 167);
 
-Color textColor2 = Colors.white;
+Color textColor2 = Color(0xFF848484);
