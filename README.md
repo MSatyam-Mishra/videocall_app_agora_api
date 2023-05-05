@@ -5,6 +5,8 @@
 - Clone or download this project either manually or with Github CLI from [here](https://github.com/MSatyam-Mishra/videocall_app_agora_api.git)
 - Select device physical or Emmulator and run following command in command prompt
 
+## Commands to build
+
 `
 flutter build
 `
