@@ -8,3 +8,10 @@ final safePaddingTop = WidgetsBinding.instance.window.padding.top;
 final safePaddingBottom = WidgetsBinding.instance.window.padding.top;
 
 Color themeColor = Color.fromARGB(255, 0, 92, 167);
+
+Color bgColor1 = Colors.white;
+Color bgColor2 = Colors.black;
+
+Color textColor1 = Color.fromARGB(255, 0, 92, 167);
+
+Color textColor2 = Colors.white;

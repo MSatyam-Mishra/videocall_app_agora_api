@@ -6,16 +6,16 @@ import '../constants/design_elements.dart';
 import 'package:agora_rtc_engine/rtc_local_view.dart' as rtc_local_view;
 import 'package:agora_rtc_engine/rtc_remote_view.dart' as rtc_remote_view;
 
-class CallPage extends StatefulWidget {
-  const CallPage({super.key, required this.channelName, required this.role});
+class VideoScreen extends StatefulWidget {
+  const VideoScreen({super.key, required this.channelName, required this.role});
   final String channelName;
   final ClientRole? role;
 
   @override
-  State<CallPage> createState() => _CallPageState();
+  State<VideoScreen> createState() => _VideoScreenState();
 }
 
-class _CallPageState extends State<CallPage> {
+class _VideoScreenState extends State<VideoScreen> {
   final _users = <int>[];
   final _infoString = <String>[];
   bool muted = false;

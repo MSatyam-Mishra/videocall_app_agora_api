@@ -1,3 +1,3 @@
 const appID = "d1db1eb29c3b441c97de6f3ed3ba93db";
 const token =
-    "007eJxTYFj12yXm1ZTyPOPpx0uWBFRlu3rsNhNPWbOC4R7zH5eXzQkKDCmGKUmGqUlGlsnGSSYmhsmW5impZmnGqSnGSYmWxilJey8EpDQEMjKknApkYWSAQBCfjaE4saQyMZeBAQDa2iGt";
+    "007eJxTYPgUGHVwy7rYC5OMZ+eH/Lbo+7DQNPThj+xOn1ffbhzWVklTYEgxTEkyTE0yskw2TjIxMUy2NE9JNUszTk0xTkq0NE5JEssNSWkIZGRwuP+fiZEBAkF8NobixJLKxFwGBgCRNiO5";
