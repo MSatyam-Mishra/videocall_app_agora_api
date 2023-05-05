@@ -4,7 +4,7 @@ import 'package:agora_rtc_engine/rtc_engine.dart';
 import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:videocall_app_agora_api/constants/design_elements.dart';
-import 'package:videocall_app_agora_api/pages/call.dart';
+import 'package:videocall_app_agora_api/pages/video_screen.dart';
 
 class IndexPage extends StatefulWidget {
   const IndexPage({super.key});

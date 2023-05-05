@@ -1,7 +1,7 @@
 import 'package:agora_rtc_engine/rtc_engine.dart';
 import 'package:flutter/material.dart';
-import 'package:videocall_app_agora_api/utils/setting.dart';
 
+import '../constants/constants.dart';
 import '../constants/design_elements.dart';
 import 'package:agora_rtc_engine/rtc_local_view.dart' as rtc_local_view;
 import 'package:agora_rtc_engine/rtc_remote_view.dart' as rtc_remote_view;
